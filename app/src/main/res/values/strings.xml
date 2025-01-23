@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BookNest</string>
+    <string name="no_title">No Title Available</string>
+    <string name="unknown_author">Unknown Author</string>
+    <string name="unknown_publisher">Unknown Publisher</string>
+    <string name="unknown_date">Unknown Date</string>
+    <string name="no_description">No Description Available</string>
+    <string name="publisher_date_format">%1$s | %2$s</string>
+    <string name="add_to_reading_list">Add to Reading List</string>
+    <string-array name="reading_list_categories">
+        <item>To Read</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+    </string-array>
+    <string name="welcome_back_user">Welcome back, %1$s!</string>
+    <string name="close_button_label">Close</string>
+    <string name="settings_title">Settings</string>
+    <string name="delete_goal">Delete Goal</string>
+    <string name="goal_description">Goal Description</string>
+    <string name="books_completed_this_month_0">Books Completed This Month: 0</string>
+    <string name="pages_read_this_week_0">Pages Read This Week: 0</string>
+    <string name="current_streak_0_days">Current Streak: 0 days</string>
+    <string name="books_in_progress">Books In Progress</string>
+    <string name="reading_goals">Reading Goals</string>
+    <string name="add_reading_goal">Add Reading Goal</string>
+    <string name="enter_your_reading_goal">Enter your reading goal</string>
+    <string name="book_title_author">Book Title (Author)</string>
+    <string name="_0_0_pages_read">0/0 pages read</string>
+    <string name="unknown_pages">Unknown pages</string>
+    <string name="no_rating">No rating</string>
+    <string name="unknown_language">Unknown language</string>
+    <string name="unknown_isbn">Unknown ISBN</string>
+    <string name="unknown_category">Unknown Category</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorNeutralBackground">#F5F5F5</color> <!-- Dialog Background -->
+    <color name="colorTextPrimary">#212121</color> <!-- Title -->
+    <color name="colorTextSecondary">#757575</color> <!-- Close Text -->
+    <color name="colorDivider">#E0E0E0</color> <!-- Divider/Border Gray -->
+    <color name="buttonGradientStart">#FF6F61</color>
+    <color name="buttonGradientEnd">#FF8A65</color>
+</resources>
